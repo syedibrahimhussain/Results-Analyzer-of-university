@@ -62,11 +62,11 @@ If you are on Linux, you might prefer to use your package manager. Matplotlib is
 
 ```
 Example Graph Created : 
-![alt text](https://github.com/syedibrahimhussain/Results-Analyzer-of-university/graph.png "Bar Graph Created")
+https://github.com/syedibrahimhussain/Results-Analyzer-of-university/blob/master/Figure_1.png
 
 ## Deployment
 
-Run the  	**resultsscraper.py**
+Run the  	**result_Analyzer.py**
 
 
 ## Built With
